@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4D6D9E9B-C7CE-2C90-3D89-7F705B4D1120}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PreBuildProcessing.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PreBuildProcessing.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4f52894e-f37a-434e-a6ac-2dcbbb555916" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
